@@ -10,6 +10,10 @@
   --color-blue-150: hsl(224, 100%, 92%);
   --color-blue-100: hsl(225, 100%, 94%);
   --color-blue-50: hsl(225, 100%, 98%);
+  --shadow-button: 0 20px 20px 0 rgba(56, 42, 225, 0.19);
+  --shadow-card-1: 0 40px 40px -20px rgba(13, 48, 189, 0.15);
+  --background-image-mobile-pattern: url('/pattern-background-mobile.svg');
+  --background-image-desktop-pattern: url('/pattern-background-desktop.svg');
   /* 8px */
   --spacing-100: 0.5rem;
   /* 16px */
