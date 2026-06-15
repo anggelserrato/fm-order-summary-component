@@ -3,7 +3,10 @@ export default function Home() {
     <main>
       <section>
         <p>Order Summary</p>
-        <p>You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
+        <p>
+          You can now listen to millions of songs, audiobooks, and podcasts on
+          any device anywhere you like!
+        </p>
         <p>Annual Plan</p>
         <p>$59.99/year</p>
         <p>Change</p>
