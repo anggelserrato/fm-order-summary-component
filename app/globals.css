@@ -24,6 +24,8 @@
   --spacing-400: 2rem;
   /* 48px */
   --spacing-600: 3rem;
+  /* 60px */
+  --spacing-800: 3.75rem;
 }
 
 @theme inline {
