@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="1920" height="1440" alt="order summary component shots" src="https://github.com/user-attachments/assets/d1f1f0a7-7e69-4b6f-8e2e-bc82a5758868" />
 
 ### Links
 
